@@ -24,4 +24,6 @@ THEN I find a concise, descriptive title
 * Replaced several "div" tags with appropriate semantic tags
 * Added "alt" attribute to all "img" tags
 * Enclosed some code segments within "div"s to achieve proper logical structure of the HTML body
-* Checked the heading attributes so that they follow sequential orders within a section   
+* Checked the heading attributes so that they follow sequential orders within a section 
+* Optimized css file
+* Added comments to HTML file
